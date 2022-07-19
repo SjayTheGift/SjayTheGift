@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Anything**
 
-- 👨‍💻 All of my projects are available at [Commingsoon.com](Commingsoon.com)
+- 👨‍💻 All of my projects are available at [Portfolio](https://esethujonas.netlify.app/)
 
 - 📝 I regularly write articles on [No Blog](No Blog)
 
