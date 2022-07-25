@@ -13,15 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Anything**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://esethujonas.netlify.app/)
+- 👨‍💻 All of my projects are available at [Esethu-Jonas](https://esethujonas.netlify.app/)
 
 - 📝 I regularly write articles on [No Blog](No Blog)
 
 - 💬 Ask me about **Django, Python**
 
 - 📫 How to reach me **Jonas.esethu24@gmail.com**
-
-- 📄 Know about my experiences [CommingSoon](CommingSoon)
 
 - ⚡ Fun fact **I know how to Dj**
 
